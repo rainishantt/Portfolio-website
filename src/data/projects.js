@@ -25,7 +25,7 @@ const projects = [
       "Responsive portfolio built using React with modern UI, animations, and optimized performance.",
     tech: ["React", "Tailwind CSS", "JavaScript","Github","Vercel"],
     github: "https://github.com/rainishantt/Portfolio-website",
-    demo: "https://pportfolio-website.vercel.app/",
+    demo: "https://portfolio-website-xi-azure-87.vercel.app/",
     image: "/projects/project2.png",
   },
 ];
